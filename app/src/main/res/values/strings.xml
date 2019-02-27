@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase Test</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="web_id_client" translatable="false">260496781915-t4injjuobabf7a580758ed0eefi911dv.apps.googleusercontent.com</string>
+</resources>

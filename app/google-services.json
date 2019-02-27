@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "260496781915",
+    "firebase_url": "https://inochi-test-firebase.firebaseio.com",
+    "project_id": "inochi-test-firebase",
+    "storage_bucket": "inochi-test-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260496781915:android:49cf934050a3e3dd",
+        "android_client_info": {
+          "package_name": "com.inochi.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260496781915-t4injjuobabf7a580758ed0eefi911dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHXaDf4NNodw6edLoqfho1sRXNhKl0EI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
